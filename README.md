@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Hexminder
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **[HexMinder]**
@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate on **interesting open-source projects**
 - 🤔 I'm looking for help with **improving my coding skills**
 - 💬 Ask me about **anything related to programming**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **hexminder@gmail.com**
 - ⚡ Fun fact: **I love coding and solving problems!**
 
 ## 🛠️ Tech Stack
@@ -67,7 +67,7 @@
   <a href="https://twitter.com/hexminder" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hexminder@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://yourwebsite.com" target="_blank">
@@ -90,4 +90,4 @@
   <img src="https://komarev.com/ghpvc/?username=hexminder&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center">⭐️ From [Your Name](https://github.com/hexminder)</p>
+<p align="center">⭐️ From [Hexminder](https://github.com/hexminder)</p>
