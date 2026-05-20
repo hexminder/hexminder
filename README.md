@@ -13,7 +13,7 @@ Hi! I'm **Hexminder**, a passionate developer from Vietnam 🇻🇳.
 - 👯 I'm looking to collaborate on **interesting open-source projects**
 - 💡 I love exploring and applying **new technologies**
 - 💬 Ask me about **programming, technology, or anything!**
-- 📫 How to reach me: **trahoangdev@gmail.com**
+- 📫 How to reach me: **hexminder@gmail.com**
 - ⚡ Fun fact: **I love coding and solving problems!**
 
 ## 🛠️ Tech Stack
