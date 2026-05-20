@@ -1,4 +1,4 @@
-# Xin chào 👋, Mình là Trà Hoàng
+# Xin chào 👋, Mình là Hexminder
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Passionate+about+coding" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 🚀 Giới thiệu bản thân
 
-Xin chào! Mình là **Trà Hoàng** (hay còn gọi là **Hexminder**), một lập trình viên đam mê công nghệ đến từ Việt Nam 🇻🇳.
+Xin chào! Mình là **Hexminder**, một lập trình viên đam mê công nghệ đến từ Việt Nam 🇻🇳.
 
 - 🔭 Mình đang làm việc với các dự án **Web Development & Mobile Development**
 - 🌱 Mình đang học và nghiên cứu về **AI / Machine Learning / Deep Learning**
